@@ -6,4 +6,8 @@
     <RootNamespace>asl_demo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MLPlaygroundML.Model\MLPlaygroundML.Model.csproj" />
+  </ItemGroup>
+
 </Project>
